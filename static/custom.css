@@ -1,0 +1,51 @@
+/* quartz/static/custom.css */
+
+/* 確保所有圖片都保持比例，避免溢出其容器 */
+/* 這會影響所有頁面上的圖片，讓它們更好地適應佈局 */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block; /* 防止圖片下方有額外空白 */
+}
+
+/* 這個類別用於您在 Markdown 中包裹兩張圖片的 div */
+.two-column-images-container {
+  display: flex; /* 啟用 Flexbox 佈局 */
+  flex-wrap: wrap; /* 允許圖片在空間不足時換行 (響應式設計) */
+  justify-content: center; /* 讓圖片在容器中居中 */
+  align-items: flex-start; /* 圖片頂部對齊 */
+  gap: 2em; /* 圖片之間的間距 */
+  margin-top: 2em; /* 容器上方留白 */
+  margin-bottom: 2em; /* 容器下方留白 */
+}
+
+/* 這個類別用於包裹單張圖片的 div (代表一個欄位) */
+.two-column-image-item {
+  flex: 1 1 45%; /* flex-grow, flex-shrink, flex-basis: 讓圖片在空間充足時佔約 45% 寬度 */
+  max-width: 48%; /* 確保兩張圖加間距不會超過 100%，並提供一些彈性 */
+  box-sizing: border-box; /* 確保 padding 和 border 不會增加元素總寬度 */
+  text-align: center; /* 如果圖片下有文字，讓文字居中 */
+}
+
+/* 你想要在左側圖片右邊加邊框的樣式 */
+.two-column-image-item.has-right-border {
+  border-right: 2px solid rgb(204, 204, 204);
+  padding-right: 1em; /* 邊框與圖片之間的間距 */
+}
+
+/* 針對小螢幕設備 (如手機) 的響應式調整 */
+@media (max-width: 768px) {
+  .two-column-images-container {
+    flex-direction: column; /* 在小螢幕上讓圖片垂直堆疊 */
+    align-items: center; /* 垂直堆疊時居中 */
+  }
+  .two-column-image-item {
+    flex-basis: 90%; /* 在小螢幕上單獨佔一行，佔據較大寬度 */
+    max-width: 90%;
+    margin-bottom: 1.5em; /* 圖片之間增加垂直間距 */
+  }
+  .two-column-image-item.has-right-border {
+    border-right: none; /* 在小螢幕上移除邊框 */
+    padding-right: 0;
+  }
+}
