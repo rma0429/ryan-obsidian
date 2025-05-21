@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Ryan-Obsidian</title>
+      <link>https://ryan-obsidian</link>
+      <description>Last 10 notes on Ryan-Obsidian</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>歡迎</title>
+    <link>https://ryan-obsidian/Ryan-Obsidian/%E6%AD%A1%E8%BF%8E</link>
+    <guid>https://ryan-obsidian/Ryan-Obsidian/%E6%AD%A1%E8%BF%8E</guid>
+    <description>這是你的新儲存庫 vault. 對筆記輸入一些內容、建立鏈接或試試匯入 匯入外掛! 當一切就緒時，刪除此筆記並繼續使用此儲存庫。.</description>
+    <pubDate>Wed, 21 May 2025 11:55:53 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://ryan-obsidian/</link>
+    <guid>https://ryan-obsidian/</guid>
+    <description></description>
+    <pubDate>Wed, 23 Aug 2023 19:09:04 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
