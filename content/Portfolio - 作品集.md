@@ -1,13 +1,13 @@
 <div style="text-align: center;">
 
-## Released Albums/Singles - 已發行專輯/單曲
-<details>
+## Released Albums/Singles - 已發行專輯/單曲<br>
+
+
 <div style="text-align: center;">
   <details style="text-align: center;">
-    <summary style="font-size: 1.5em; font-weight: bold;">▼ Angela 曾妃攸 - Luxury B!tch(EP)</summary>
+    <summary style="font-size: 1.5em; font-weight: bold;">Angela 曾妃攸 - Luxury B!tch(EP)<br>2024 Global Music Awards<br></summary>
     <div style="text-align: center;">
-      2024 Global Music Awards<br>
-      Luxury B!tch - <a href="https://www.youtube.com/watch?v=59ubl0dUuvM" target="_blank">https://www.youtube.com/watch?v=59ubl0dUuvM</a><br>
+      Luxury B!tch - <a href="https://www.youtube.com/watch?v=59ubI0dUuvM" target="_blank">https://www.youtube.com/watch?v=59ubI0dUuvM</a><br>
       Here I Come - <a href="https://www.youtube.com/watch?v=g6Ts4djaQEA" target="_blank">https://www.youtube.com/watch?v=g6Ts4djaQEA</a><br>
       Tan - <a href="https://www.youtube.com/watch?v=v9j_55vB6DI" target="_blank">https://www.youtube.com/watch?v=v9j_55vB6DI</a>
     </div>
