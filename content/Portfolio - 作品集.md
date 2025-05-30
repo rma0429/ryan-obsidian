@@ -2,14 +2,17 @@
 
 ## Released Albums/Singles - 已發行專輯/單曲
 <details>
- <summary style="font-size: 1.5em; font-weight: bold;">Angela 曾妃攸 - Luxury B!tch(EP)</summary>
-  <div style="text-align: center;">
-2024 Global Music Awards 
-Luxury B!tch - https://www.youtube.com/watch?v=59ubI0dUuvM<br>
-Here I Come - https://www.youtube.com/watch?v=g6Ts4djaQEA<br>
-Tan - https://www.youtube.com/watch?v=v9j_55vB6DI<br>
+<div style="text-align: center;">
+  <details style="text-align: center;">
+    <summary style="font-size: 1.5em; font-weight: bold;">▼ Angela 曾妃攸 - Luxury B!tch(EP)</summary>
+    <div style="text-align: center;">
+      2024 Global Music Awards<br>
+      Luxury B!tch - <a href="https://www.youtube.com/watch?v=59ubl0dUuvM" target="_blank">https://www.youtube.com/watch?v=59ubl0dUuvM</a><br>
+      Here I Come - <a href="https://www.youtube.com/watch?v=g6Ts4djaQEA" target="_blank">https://www.youtube.com/watch?v=g6Ts4djaQEA</a><br>
+      Tan - <a href="https://www.youtube.com/watch?v=v9j_55vB6DI" target="_blank">https://www.youtube.com/watch?v=v9j_55vB6DI</a>
+    </div>
+  </details>
 </div>
-<details>
 
 ## Released Film and Game Soundtracks - 已發行之影視遊戲配樂
 
