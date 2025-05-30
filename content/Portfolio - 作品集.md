@@ -1,20 +1,19 @@
-
-
-
 <div style="text-align: center;">
-## Released albums/singles 已發行專輯/單曲
 
-#### Angela 曾妃攸 - Luxury B!tch(EP)  
+## Released Albums/Singles - 已發行專輯/單曲
+<details>
+ <summary> #### Angela 曾妃攸 - Luxury B!tch(EP) </summary>
+2024 Global Music Awards 
 Luxury B!tch  
 https://www.youtube.com/watch?v=59ubI0dUuvM  
 Here I Come  
 https://www.youtube.com/watch?v=g6Ts4djaQEA  
 Tan  
 https://www.youtube.com/watch?v=v9j_55vB6DI  
+</details>
 
 
-
-## Released film and game soundtracks 已發行之影視遊戲配樂
+## Released Film and Game Soundtracks - 已發行之影視遊戲配樂
 
 ACT 1 Endeavor 努力
 <audio controls>

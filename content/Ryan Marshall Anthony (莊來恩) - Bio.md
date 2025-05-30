@@ -28,6 +28,10 @@ Ryan 在音樂製作領域展現了卓越的才華與多元的實力，涵蓋從
 * **《Luxury B!tch》- 曾妃攸 Angela ：** 榮獲「2024 年 Global Music Awards 演奏家銅牌」。
 * **《雙魚游泳》- Keanna Taiyh (feat. 雞二兄弟)：** 百萬流量單曲。
 ---
-[樂利錄音室服務項目](Lovely%20Road%20Studio%20-%20樂利錄音室)
-[作品集](Portfolio%20-%20作品集)
-#### 聯絡方式:rma0429@gmail.com ![[contact 1.png]]
+<div style="text-align: center;">
+
+### [樂利錄音室服務項目](Lovely%20Road%20Studio%20-%20樂利錄音室)  
+### [作品集](Portfolio%20-%20作品集)
+</div>
+
+### 聯絡方式: rma0429@gmail.com ![[contact 1.png]]
