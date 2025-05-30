@@ -4,16 +4,16 @@
 
 
 #### 2024 Global Music Awards<br> Angela 曾妃攸 - Luxury B!tch(EP)
-      Luxury B!tch - <a href="https://www.youtube.com/watch?v=59ubI0dUuvM" target="_blank">YouTube Link</a><br>
-      Here I Come(feat. Raymond Anthony) - <a href="https://www.youtube.com/watch?v=g6Ts4djaQEA" target="_blank">YouTube Link</a><br>
-      Tan - <a href="https://www.youtube.com/watch?v=v9j_55vB6DI" target="_blank">YouTube Link</a>
+Luxury B!tch - <a href="https://www.youtube.com/watch?v=59ubI0dUuvM" target="_blank">YouTube Link</a><br>
+Here I Come(feat. Raymond Anthony) - <a href="https://www.youtube.com/watch?v=g6Ts4djaQEA" target="_blank">YouTube Link</a><br>
+Tan - <a href="https://www.youtube.com/watch?v=v9j_55vB6DI" target="_blank">YouTube Link</a>
 
 
 #### Y.F. Koko 柯小丰 - 原來公主不住城堡(EP)<br>
-     In Your Eyes - <a href="https://www.youtube.com/watch?v=5nc4TINEk14" target="_blank">YouTube Link</a><br>
-     Tell Me Why(feat. R.M.A.) - <a href="https://www.youtube.com/watch?v=CiPVJVV-7aY" target="_blank">YouTube Link</a><br>
-     既然你 - <a href="https://www.youtube.com/watch?v=IIPEhA9Uc_w" target="_blank">YouTube Link</a><br>
-     如有雷同 - <a href="https://youtu.be/Rkqp633eWIQ?si=ivJKoEsIESxsuEy-" target="_blank">YouTube Link</a>
+In Your Eyes - <a href="https://www.youtube.com/watch?v=5nc4TINEk14" target="_blank">YouTube Link</a><br>
+Tell Me Why(feat. R.M.A.) - <a href="https://www.youtube.com/watch?v=CiPVJVV-7aY" target="_blank">YouTube Link</a><br>
+既然你 - <a href="https://www.youtube.com/watch?v=IIPEhA9Uc_w" target="_blank">YouTube Link</a><br>
+如有雷同 - <a href="https://youtu.be/Rkqp633eWIQ?si=ivJKoEsIESxsuEy-" target="_blank">YouTube Link</a>
 
 
 Keanna Taiyh - 雙魚游泳(feat. 雞二兄弟) - <a href="https://www.youtube.com/watch?v=2NqBmzbP6j8" target="_blank">YouTube Link</a><br>
@@ -182,4 +182,4 @@ XL Ripples Inside 內心波動
 
 ### [樂利錄音室服務項目](Lovely%20Road%20Studio%20-%20樂利錄音室)  
 </div>
-![[contact 2.png]]
+![[contact 1.png]]
