@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
-## Albums/Singles
+## Albums 專輯
 
 
 #### 2024 Global Music Awards<br> Angela 曾妃攸 - Luxury B!tch (EP)
@@ -15,12 +15,12 @@ Tell Me Why(feat. R.M.A.) - <a href="https://www.youtube.com/watch?v=CiPVJVV-7aY
 既然你 - <a href="https://www.youtube.com/watch?v=IIPEhA9Uc_w" target="_blank">YouTube Link</a><br>
 如有雷同 - <a href="https://youtu.be/Rkqp633eWIQ?si=ivJKoEsIESxsuEy-" target="_blank">YouTube Link</a>
 
-
-Keanna Taiyh - 雙魚游泳(feat. 雞二兄弟) - <a href="https://www.youtube.com/watch?v=2NqBmzbP6j8" target="_blank">YouTube Link</a><br>
-Keanna Taiyh - 點點頭 Nod(feat. 雞二兄弟) - <a href="https://www.youtube.com/watch?v=Ae68V3IG_iU" target="_blank">YouTube Link</a><br>
+## Singles 單曲
 竜生RS - 相愛的我們 - <a href="https://www.youtube.com/watch?v=JS7l7anIpuA" target="_blank">YouTube Link</a><br>
 竜生RS - 功成名就 - <a href="https://www.youtube.com/watch?v=pdf4xotSz1k" target="_blank">YouTube Link</a><br>
 竜生RS - Dont Leave Me (feat. 77) - <a href="https://youtu.be/68ttu5HIamY?si=M7ZJF9wPAh9mJMjw" target="_blank">YouTube Link</a>
+Keanna Taiyh - 雙魚游泳(feat. 雞二兄弟) - <a href="https://www.youtube.com/watch?v=2NqBmzbP6j8" target="_blank">YouTube Link</a><br>
+Keanna Taiyh - 點點頭 Nod(feat. 雞二兄弟) - <a href="https://www.youtube.com/watch?v=Ae68V3IG_iU" target="_blank">YouTube Link</a><br>
 兆群 Shane - Go On - <a href="https://www.youtube.com/watch?v=AwHBpdckUNw" target="_blank">YouTube Link</a><br>
 嫚凌 - 玩美 (feat.楊蒨時& Keanna Taiyh) - <a href="https://www.youtube.com/watch?v=s9_NSVuF-iI&list=OLAK5uy_kB8LNKiWpt2b6KYYxXVc1BRDwoBLWJWQg" target="_blank">YouTube Link</a><br>
 嫚凌 - 慢夢境 - <a href="https://www.youtube.com/watch?v=8cQEsZrRZxs&list=OLAK5uy_luylGj4MvMyQK1UNk5PhfbxCtjVeusBCA" target="_blank">YouTube Link</a><br>
@@ -182,4 +182,3 @@ XL Ripples Inside 內心波動
 
 ### [樂利錄音室服務項目](Lovely%20Road%20Studio%20-%20樂利錄音室)  
 </div>
-![[contact 1.png]]
