@@ -1,18 +1,18 @@
 
 
 
-
+<div style="text-align: center;">
 ## Released albums/singles 已發行專輯/單曲
 
-#### Angela 曾妃攸 - Luxury B!tch(EP)
-Luxury B!tch
-https://www.youtube.com/watch?v=59ubI0dUuvM
-Here I Come
-https://www.youtube.com/watch?v=g6Ts4djaQEA
-Tan
-https://www.youtube.com/watch?v=v9j_55vB6DI
+#### Angela 曾妃攸 - Luxury B!tch(EP)  
+Luxury B!tch  
+https://www.youtube.com/watch?v=59ubI0dUuvM  
+Here I Come  
+https://www.youtube.com/watch?v=g6Ts4djaQEA  
+Tan  
+https://www.youtube.com/watch?v=v9j_55vB6DI  
 
-####
+
 
 ## Released film and game soundtracks 已發行之影視遊戲配樂
 
@@ -165,3 +165,5 @@ XL Ripples Inside 內心波動
   <source src="audio/XL-Ripples-Inside.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
+
+</div>
