@@ -1,31 +1,20 @@
 <div style="text-align: center;">
 
-## Albums/Singles
-## 專輯/單曲
+## Albums/Singles 專輯/單曲
 
 
-<div style="text-align: center;">
-  <details style="text-align: center;">
-    <summary style="font-size: 1.2em;">2024 Global Music Awards<br> Angela 曾妃攸 - Luxury B!tch(EP)<br></summary>
-    <div style="text-align: center;">
+#### 2024 Global Music Awards<br> Angela 曾妃攸 - Luxury B!tch(EP)
       Luxury B!tch - <a href="https://www.youtube.com/watch?v=59ubI0dUuvM" target="_blank">YouTube Link</a><br>
       Here I Come(feat. Raymond Anthony) - <a href="https://www.youtube.com/watch?v=g6Ts4djaQEA" target="_blank">YouTube Link</a><br>
       Tan - <a href="https://www.youtube.com/watch?v=v9j_55vB6DI" target="_blank">YouTube Link</a>
-    </div>
-  </details>
-</div>
 
-<div style="text-align: center;">
- <details style="text-align: center;">
-   <summary style="font-size: 1.2em;">Y.F. Koko 柯小丰 - 原來公主不住城堡(EP)<br></summary>
-   <div style="text-align: center;">
+
+#### Y.F. Koko 柯小丰 - 原來公主不住城堡(EP)<br>
      In Your Eyes - <a href="https://www.youtube.com/watch?v=5nc4TINEk14" target="_blank">YouTube Link</a><br>
      Tell Me Why(feat. R.M.A.) - <a href="https://www.youtube.com/watch?v=CiPVJVV-7aY" target="_blank">YouTube Link</a><br>
      既然你 - <a href="https://www.youtube.com/watch?v=IIPEhA9Uc_w" target="_blank">YouTube Link</a><br>
      如有雷同 - <a href="https://youtu.be/Rkqp633eWIQ?si=ivJKoEsIESxsuEy-" target="_blank">YouTube Link</a>
-   </div>
- </details>
-</div>
+
 
 Keanna Taiyh - 雙魚游泳(feat. 雞二兄弟) - <a href="https://www.youtube.com/watch?v=2NqBmzbP6j8" target="_blank">YouTube Link</a><br>
 Keanna Taiyh - 點點頭 Nod(feat. 雞二兄弟) - <a href="https://www.youtube.com/watch?v=Ae68V3IG_iU" target="_blank">YouTube Link</a><br>
@@ -39,8 +28,7 @@ G2bro - SWMFT - <a href="https://www.youtube.com/watch?v=b6KXoL_Ihd8" target="_b
 G2bro - 小雞掰 - <a href="https://www.youtube.com/watch?v=84WsnHqJA5c" target="_blank">YouTube Link</a><br>
 G2bro - 喇叭妮 (feat. 許晨晞aka.喇叭妮) - <a href="https://www.youtube.com/watch?v=Ee6m_3i28wg" target="_blank">YouTube Link</a>
 
-## Films and Games Soundtracks
-## 已發行之影視遊戲配樂
+## Films and Games Soundtracks 已發行之影視遊戲配樂
 
 ACT 1 Endeavor 努力
 <audio controls>
@@ -192,7 +180,6 @@ XL Ripples Inside 內心波動
   Your browser does not support the audio element.
 </audio>
 
-</div>
-
 ### [樂利錄音室服務項目](Lovely%20Road%20Studio%20-%20樂利錄音室)  
+</div>
 ![[contact 2.png]]
