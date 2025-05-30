@@ -1,15 +1,15 @@
 <div style="text-align: center;">
 
-## Albums/Singles 專輯/單曲
+## Albums/Singles
 
 
-#### 2024 Global Music Awards<br> Angela 曾妃攸 - Luxury B!tch(EP)
+#### 2024 Global Music Awards<br> Angela 曾妃攸 - Luxury B!tch (EP)
 Luxury B!tch - <a href="https://www.youtube.com/watch?v=59ubI0dUuvM" target="_blank">YouTube Link</a><br>
 Here I Come(feat. Raymond Anthony) - <a href="https://www.youtube.com/watch?v=g6Ts4djaQEA" target="_blank">YouTube Link</a><br>
 Tan - <a href="https://www.youtube.com/watch?v=v9j_55vB6DI" target="_blank">YouTube Link</a>
 
 
-#### Y.F. Koko 柯小丰 - 原來公主不住城堡(EP)<br>
+#### Y.F. Koko 柯小丰 - 原來公主不住城堡 (EP)
 In Your Eyes - <a href="https://www.youtube.com/watch?v=5nc4TINEk14" target="_blank">YouTube Link</a><br>
 Tell Me Why(feat. R.M.A.) - <a href="https://www.youtube.com/watch?v=CiPVJVV-7aY" target="_blank">YouTube Link</a><br>
 既然你 - <a href="https://www.youtube.com/watch?v=IIPEhA9Uc_w" target="_blank">YouTube Link</a><br>
@@ -28,7 +28,7 @@ G2bro - SWMFT - <a href="https://www.youtube.com/watch?v=b6KXoL_Ihd8" target="_b
 G2bro - 小雞掰 - <a href="https://www.youtube.com/watch?v=84WsnHqJA5c" target="_blank">YouTube Link</a><br>
 G2bro - 喇叭妮 (feat. 許晨晞aka.喇叭妮) - <a href="https://www.youtube.com/watch?v=Ee6m_3i28wg" target="_blank">YouTube Link</a>
 
-## Films and Games Soundtracks 已發行之影視遊戲配樂
+## Films and Games Soundtracks 影視遊戲配樂
 
 ACT 1 Endeavor 努力
 <audio controls>
