@@ -1,7 +1,8 @@
 .DS_Store
 .gitignore
 node_modules
-public
+public/*
+!public/audio/
 prof
 tsconfig.tsbuildinfo
 .obsidian
