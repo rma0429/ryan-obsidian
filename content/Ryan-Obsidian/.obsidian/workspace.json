@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "4cffc35538e2ee1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea319371a57f0a8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b939788cdeda4371",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19d732e502c8fbbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a4286ca62536370",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5cd90c050d9ab8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "c4dcaf4c00e20df2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "a7de69186063d713",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9cfe46fa1b976c80",
+    "type": "split",
+    "children": [
+      {
+        "id": "62b8de4a83705b2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93d408845782db20",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "歡迎.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "歡迎 的反向連結"
+            }
+          },
+          {
+            "id": "62e9fb5deddecdfe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "歡迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "歡迎 的對外連結"
+            }
+          },
+          {
+            "id": "d64bf4fed09a2766",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "54bb2bf496ecc326",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "歡迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "歡迎 的大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "f5cd90c050d9ab8f",
+  "lastOpenFiles": [
+    "樂利錄音室作品集.md",
+    "樂利錄音室作品集",
+    "Audio Test.md",
+    "未命名.md",
+    "樂利錄音室-服務項目＆價目-2 1.png",
+    "contact 2.png",
+    "樂利錄音室-服務項目＆價目-2.png",
+    "樂利錄音室-服務項目＆價目-1.png",
+    "Ryan Marshall Anthony (莊來恩) - Bio.md",
+    "contact 1.png",
+    "contact.png",
+    "1583581941633.jpeg",
+    "djbio 1.png",
+    "djbio.png",
+    "kbbio.png",
+    "Lovely Road Studio - 樂利錄音室.md"
+  ]
+}
